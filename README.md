@@ -33,7 +33,7 @@ BasicCalculator/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/BasicCalculator.git
+https://github.com/Renuka199/BYTEUPRISE_PP_01.git
 
 2.Navigate to the folder:
 cd BasicCalculator
